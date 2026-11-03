@@ -1,7 +1,7 @@
 import streamlit as st
 
 # título da página (H1)
-st.title("Cadastro de Pessoas")
+st.title("Cadastro Pessoas")
 
 # ----------------------
 # formulário de cadastro 
